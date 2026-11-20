@@ -1,0 +1,4 @@
+interface:
+  display_name: "Android Development"
+  short_description: "Build and maintain the MOZG3 Android app"
+  default_prompt: "Use this skill when developing or testing MOZG3 Android code."
